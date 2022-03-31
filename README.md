@@ -107,3 +107,6 @@
   
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
 </div>
+<!-- https://shields.io -->
+<!-- https://simpleicons.org -->
+<!-- https://github.com/kyechan99/capsule-render -->
