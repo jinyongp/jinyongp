@@ -104,4 +104,6 @@
       <li><code>2020 ~</code> 노마드코더(Nomad Coders) - Full-Stack Development</li>
     </ul>
   </div>
+  
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
 </div>
