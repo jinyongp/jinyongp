@@ -97,11 +97,11 @@
     <ul>
       <li><code>2022.02 - 2022.03</code> 원티드×코드스테이츠 FE 프리온보딩 과정</li>
       <li><code>2021.06 - 2021.07</code> 코드스테이츠 네이버 특별 심화반</li>
+      <li><code>2021.01 - 2021.06</code> 패스트캠퍼스(Fast Campus) - Basic Computer Science</li>
       <li><code>2020.03 - 2020.09</code> 코드스테이츠(Code States) - Advanced Software Engineering, Immersive Course 21th</li>
     </ul>
     <ul>
-      <li><code>2021 ~</code> 패스트캠퍼스(Fast Campus) - Basic Computer Science</li>
-      <li><code>2020 ~</code> 노마드코더(Nomad Coders) - Full-Stack Development</li>
+      <li><code>2020.03 -</code> 노마드코더(Nomad Coders) - Full-Stack Development <a href="https://nomadcoders.co/users/jinyongp">Cert</a></li>
     </ul>
   </div>
   
