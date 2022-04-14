@@ -105,6 +105,8 @@
     </ul>
   </div>
   
+  <img alt="Snake Gif" src="https://github.com/jinyongp/jinyongp/blob/output/github-contribution-grid-snake.svg" />
+  
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=footer" /></a>
 </div>
 <!-- https://shields.io -->
