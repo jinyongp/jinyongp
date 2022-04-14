@@ -9,9 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2.0.0-rc.1
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
+          svg_output_path: dist/github-contribution-grid-snake.svg
