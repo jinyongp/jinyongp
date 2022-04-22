@@ -1,15 +1,11 @@
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=100&section=header&text=dev.jinyongp&desc=Front-end%20Developer&descAlignY=80&fontSize=50&fontColor=ccc&fontAlignY=40" /></a>
   
-  <p>안녕하세요. 배움과 성장 의지를 지닌 가파른 러닝 커브를 소유한 프론트엔드 개발자 박진용입니다.</p>
-  
   <div>
     <a href="mailto:dev.jinyongp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat" /></a>
-    <a href="https://jinyongp.dev"><img src="https://img.shields.io/badge/-Dev Blog-003E54?logo=devpost&logoColor=white&style=flat" /></a>
+    <a href="https://jinyongp.dev"><img src="https://img.shields.io/badge/-Blog-4169E1?logo=devpost&logoColor=white&style=flat" /></a>
     <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinyongp%2Fhit-counter&count_bg=%2340433E&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
   </div>
-  
-  <hr />
   
   <h3>Tech Stack</h3>
   
@@ -88,22 +84,6 @@
   </td>
   </tr>
   </table>
-  
-  <hr />
-  
-  <h3>Experience & Education</h3>
-  
-  <div align="left">
-    <ul>
-      <li><code>2022.02 - 2022.03</code> 원티드×코드스테이츠 FE 프리온보딩 과정</li>
-      <li><code>2021.06 - 2021.07</code> 코드스테이츠 네이버 특별 심화반</li>
-      <li><code>2021.01 - 2021.06</code> 패스트캠퍼스(Fast Campus) - Basic Computer Science</li>
-      <li><code>2020.03 - 2020.09</code> 코드스테이츠(Code States) - Advanced Software Engineering, Immersive Course 21th</li>
-    </ul>
-    <ul>
-      <li><code>2020.03 -</code> 노마드코더(Nomad Coders) - Full-Stack Development <a href="https://nomadcoders.co/users/jinyongp">Cert</a></li>
-    </ul>
-  </div>
   
   <img alt="Snake Gif" src="https://github.com/jinyongp/jinyongp/blob/output/github-contribution-grid-snake.svg" />
   
