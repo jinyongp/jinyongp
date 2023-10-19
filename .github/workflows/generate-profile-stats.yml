@@ -2,7 +2,7 @@ name: Generate Profile Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 */24 * * *" 
 
   workflow_dispatch:
 
@@ -12,10 +12,14 @@ on:
 
 jobs:
   build:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
